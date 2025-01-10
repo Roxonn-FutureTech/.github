@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/roxonn-banner.png" alt="Roxonn FutureTech Banner" width="100%">
+  <img src="assets/roxonn-header.png" alt="Roxonn FutureTech Banner" width="100%">
   <h1>Welcome to Roxonn FutureTech 🚀</h1>
   <p><em>Building Tomorrow's Technology Today</em></p>
 </div>
