@@ -91,7 +91,7 @@ Empowering farmers with AI-driven climate insights for sustainable agriculture.
 
 - [GitHub Discussions](https://github.com/orgs/Roxonn-FutureTech/discussions)
 - [Website](https://roxonn.com)
-- [Twitter](https://twitter.com/RoxonnTech)
+- [Twitter](https://x.com/RoxonnEcosystem)
 - [LinkedIn](https://linkedin.com/company/roxonn)
 
 ## Contributing 📝
@@ -100,11 +100,8 @@ We welcome contributions from the community! Check out our [Contributing Guideli
 
 ## Contact Us 📬
 
-- Email: hello@roxonn.com
-- Support: support@roxonn.com
-- Security: security@roxonn.com
+- Email: connect@roxonn.com
 
 <div align="center">
-  <img src="assets/roxonn-footer.png" alt="Roxonn FutureTech Footer" width="100%">
   <p> 2023 Roxonn FutureTech. All rights reserved.</p>
 </div>
