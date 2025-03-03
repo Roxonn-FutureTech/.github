@@ -7,24 +7,6 @@
 
 At Roxonn FutureTech, we're dedicated to creating innovative solutions that bridge the gap between cutting-edge technology and real-world applications. Our mission is to develop sustainable, scalable, and impactful solutions that address global challenges.
 
-## Core Projects 🛠️
-
-### [Roxonn DeFi](https://github.com/Roxonn-FutureTech/roxonn-defi)
-A comprehensive decentralized finance protocol revolutionizing the way we think about financial systems.
-
-- 🏦 Advanced Trading Features
-- 💰 Innovative Liquidity Solutions
-- 🔐 Robust Security Measures
-- 🏛️ Community-Driven Governance
-
-### [AgroClimate AI](https://github.com/Roxonn-FutureTech/agroclimate-ai)
-Empowering farmers with AI-driven climate insights for sustainable agriculture.
-
-- 🌾 Smart Agriculture Solutions
-- 🌡️ NASA-IBM Weather Integration
-- 🤖 Advanced ML Models
-- 📊 Real-time Analytics
-
 ## Core Principles 🎯
 
 ### 1. Innovation First
